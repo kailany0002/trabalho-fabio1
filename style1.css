@@ -1,0 +1,38 @@
+body{
+    margin: 0; 
+ }
+ h1{
+     font-size: 45px;
+ }
+ .Título{
+     background-color: rgb(255, 203, 248);
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     height: 150px;
+     font-size: 20px;
+     border: solid 5px white;
+}
+ .Lista{
+    list-style: none;
+    display: flex;
+    flex-direction: row-reverse;
+    gap:30px;
+    font-size: 20px;
+    margin: 10px;
+}
+ .Menu{
+    background-color: rgb(223, 130, 130);
+    color: white;
+    height: 1060px;
+    width: 210px;
+    text-align:left;
+    list-style: none;
+    font-size: 20px;
+    border: solid 5px white;
+}
+ .h2{
+    font-size: 35px;
+    text-align:center;
+ }
+
